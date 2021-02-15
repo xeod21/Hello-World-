@@ -1,5 +1,5 @@
 # **Hello, World!**
 ---
-#### | Hello, Markdown! |
+#### |Hello, Markdown!|
 - #### TEST
 - #### First Repository
